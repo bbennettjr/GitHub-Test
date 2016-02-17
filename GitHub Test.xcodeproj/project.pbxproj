@@ -15,6 +15,7 @@
 		18039DE21C74107500C8B81F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18039DE01C74107500C8B81F /* LaunchScreen.storyboard */; };
 		18039DED1C74107500C8B81F /* GitHub_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18039DEC1C74107500C8B81F /* GitHub_TestTests.m */; };
 		18039DF81C74107500C8B81F /* GitHub_TestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18039DF71C74107500C8B81F /* GitHub_TestUITests.m */; };
+		18039E071C74115D00C8B81F /* GOTCHAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18039E061C74115D00C8B81F /* GOTCHAViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		18039DF31C74107500C8B81F /* GitHub TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GitHub TestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18039DF71C74107500C8B81F /* GitHub_TestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitHub_TestUITests.m; sourceTree = "<group>"; };
 		18039DF91C74107500C8B81F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18039E051C74115D00C8B81F /* GOTCHAViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GOTCHAViewController.h; sourceTree = "<group>"; };
+		18039E061C74115D00C8B81F /* GOTCHAViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GOTCHAViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 				18039DD81C74107500C8B81F /* ViewController.h */,
 				18039DD91C74107500C8B81F /* ViewController.m */,
 				18039DDB1C74107500C8B81F /* Main.storyboard */,
+				18039E051C74115D00C8B81F /* GOTCHAViewController.h */,
+				18039E061C74115D00C8B81F /* GOTCHAViewController.m */,
 				18039DDE1C74107500C8B81F /* Assets.xcassets */,
 				18039DE01C74107500C8B81F /* LaunchScreen.storyboard */,
 				18039DE31C74107500C8B81F /* Info.plist */,
@@ -275,6 +280,7 @@
 			files = (
 				18039DDA1C74107500C8B81F /* ViewController.m in Sources */,
 				18039DD71C74107500C8B81F /* AppDelegate.m in Sources */,
+				18039E071C74115D00C8B81F /* GOTCHAViewController.m in Sources */,
 				18039DD41C74107500C8B81F /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
