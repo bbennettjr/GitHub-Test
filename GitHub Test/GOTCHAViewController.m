@@ -24,9 +24,9 @@
     // Dispose of any resources that can be recreated.
 }
 
-    //rewind the segue
--(IBAction)theOnlyUnwindSegue:(UIStoryboardSegue *)segue{
-    
+    //rewind the segue to Dare
+-(IBAction)unwindToDare:(UIStoryboardSegue *)segue{
+
 }
 /*
 #pragma mark - Navigation
