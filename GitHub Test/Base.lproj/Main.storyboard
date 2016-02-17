@@ -57,7 +57,7 @@
                                 <rect key="frame" x="275" y="318" width="51" height="30"/>
                                 <state key="normal" title="Rewind"/>
                                 <connections>
-                                    <segue destination="CuG-Xe-Lo4" kind="unwind" unwindAction="theOnlyUnwindSegue:" id="fWH-5p-imF"/>
+                                    <segue destination="CuG-Xe-Lo4" kind="unwind" unwindAction="unwindToDare:" id="yLo-jS-HxE"/>
                                 </connections>
                             </button>
                         </subviews>

@@ -24,10 +24,7 @@
     // Dispose of any resources that can be recreated.
 }
 
-    //rewind the segue to Dare
--(IBAction)unwindToDare:(UIStoryboardSegue *)segue{
-    [self performSegueWithIdentifier:@"unwindSegue" sender:self];
-}
+
 /*
 #pragma mark - Navigation
 
